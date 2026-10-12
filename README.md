@@ -38,3 +38,15 @@ This project contains seven CSV files:
 - JOIN operations
 - GROUP BY and ORDER BY
 - Aggregate functions such as COUNT, SUM, and
+
+
+## 📸 Project Screenshots
+
+### Database Tables
+![Database Tables](screenshots/database-tables.png)
+
+### SQL Query Results
+![SQL Query Results](screenshots/sql-query-results.png)
+
+### Loan Analysis
+![Loan Analysis](screenshots/loan-analysis.png)
